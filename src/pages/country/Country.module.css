@@ -73,6 +73,7 @@
 .details_panel_borders img{
     width: 100%;
     border-radius: 4px;
+    cursor: pointer;
 
 }
 
